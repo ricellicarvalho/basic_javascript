@@ -1,6 +1,6 @@
 **About the code**
 
-This code was used to introduce the first concepts in JavaScript as variables, conditionals, operators, loop loops, and functions.
+This code was used to introduce the first concepts in JavaScript as variables, conditionals, operators, repeating loops, and functions.
 Through this code you can find out in practice how JavaScript works and get started with the language.
 
 **What is JavaScript?**
